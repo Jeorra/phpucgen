@@ -1,0 +1,3 @@
+# Patika php ödevi
+
+## deneme
